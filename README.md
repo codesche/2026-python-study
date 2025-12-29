@@ -113,3 +113,13 @@ for item in items:
 
 print(counter)
 ```
+---
+
+### ✅ Day 04 – Stack & Queue (스택 & 큐)
+📅 학습일: 2025-12-29
+
+#### 🔹 학습한 내용
+- 스택(Stack)과 큐(Queue)의 개념 이해
+- LIFO / FIFO 차이 설명 가능
+- 파이썬에서 스택과 큐 구현
+- 코딩 테스트 단골 문제 대응
